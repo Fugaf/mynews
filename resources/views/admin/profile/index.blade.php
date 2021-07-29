@@ -31,9 +31,10 @@
                     <table class="table table-dark">
                         <thead>
                             <tr>
+                                <th width="10%"></th>
                                 <th width="10%">氏名</th>
                                 <th width="20%">性別</th>
-                                <th width="20%">趣味</th>
+                                <th width="20%">趣味・特技</th>
                                 <th width="20%">自己紹介</th>
                             </tr>
                         </thead>
